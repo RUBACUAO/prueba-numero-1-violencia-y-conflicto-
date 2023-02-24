@@ -1,4 +1,4 @@
-# Ayudar a los demas utilizando nuevas herramientas tegnolocias
+# Cómo puedo usar las librerías expuestas en clases y las herramientas tecnológicas para la resolución de conflictos
 
 # programador, ruben ballesteros- 
 # investigador, william pertuz- 
