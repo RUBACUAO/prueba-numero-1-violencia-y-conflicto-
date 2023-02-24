@@ -3,6 +3,7 @@
 # programador, ruben ballesteros- 
 # investigador, william pertuz- 
 # presentador, naimer castro-
+
 Gracias a la tecnología con la que contamos hoy en día se pudo socializar en clases algunas de 
 las herramientas que nos brinda este avance tecnológico, algunas de ellas son buenas 
 proporcionando información que podríamos utilizar para saber proponer y plantear una 
