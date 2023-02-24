@@ -3,13 +3,6 @@
 # programador, ruben ballesteros- 
 # investigador, william pertuz- 
 # presentador, naimer castro-
+La tecnología actualmente nos proporciona herramientas útiles en el aula para el aprendizaje y la resolución de conflictos. Estas herramientas pueden ser utilizadas para plantear técnicas de intervención que permitan a la comunidad abordar los conflictos teniendo en cuenta diferentes perspectivas. Además, es importante reconocer que cada persona tiene una forma diferente de ver, observar e interpretar el mundo.
 
-Gracias a la tecnología con la que contamos hoy en día se pudo socializar en clases algunas de 
-las herramientas que nos brinda este avance tecnológico, algunas de ellas son buenas 
-proporcionando información que podríamos utilizar para saber proponer y plantear una 
-técnica de intervención que permita la resolución de conflictos teniendo en cuenta aspectos 
-importantes para la comunidad, además de esto, estuvimos analizando una lectura que 
-conociste en tratar de entender las diferentes formas de ver el mundo de las personas que nos 
-rodean y que no todos vemos, observamos e interpretamos el mundo de la misma manera.
-
-La influencia de las TIC en la motivación de los estudiantes al abordar las clases de matemáticas es notoria. Sin embargo, para obtener buenos resultados en la resolución de problemas matemáticos, es necesario incluir una estrategia estructurada que les brinde una guía a seguir. Esta estrategia les permite comparar el problema a resolver con uno previamente solucionado, identificar las incógnitas, construir un plan de solución y verificar si la respuesta obtenida es correcta. La falta de conocimiento en la forma de sacar datos e incógnitas hace que la mayoría de los estudiantes no puedan resolver problemas matemáticos. Es importante destacar que las tecnologías no aseguran el aprendizaje del estudiante, por lo que es crucial que el docente organice el contenido a trabajar de manera estructurada para orientar el proceso de enseñanza.
+Se ha notado que las Tecnologías de la Información y la Comunicación (TIC) influyen positivamente en la motivación de los estudiantes. Sin embargo, para obtener buenos resultados en la resolución de problemas matemáticos, es fundamental incluir una estrategia estructurada que les brinde una guía a seguir. Esta estrategia les permite comparar el problema a resolver con uno previamente solucionado, identificar las incógnitas, construir un plan de solución y verificar si la respuesta obtenida es correcta. Debemos tener en cuenta que las tecnologías no aseguran el aprendizaje del estudiante, por lo que es crucial que el docente organice el contenido de manera estructurada para orientar el proceso de enseñanza.
