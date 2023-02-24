@@ -1,4 +1,4 @@
-# ayudar a los demas utilizando nuevas herramientas tegnolocias
+# Ayudar a los demas utilizando nuevas herramientas tegnolocias
 
 # programador, ruben ballesteros- 
 # investigador, william pertuz- 
@@ -10,9 +10,7 @@ técnica de intervención que permita la resolución de conflictos teniendo en c
 importantes para la comunidad, además de esto, estuvimos analizando una lectura que 
 conociste en tratar de entender las diferentes formas de ver el mundo de las personas que nos 
 rodean y que no todos vemos, observamos e interpretamos el mundo de la misma manera.
-_
-_
-_
+
 las TIC tiene
 una gran influencia en la motivación que se generan en los estudiantes al momento de abordar las clases de
 matemáticas.
